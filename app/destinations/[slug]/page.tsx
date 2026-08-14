@@ -34,7 +34,7 @@ export async function generateMetadata({
   return {
 
   title:
-    `${destination.name} Private Tour | ETrip`,
+    destination.title,
 
 
   description:
